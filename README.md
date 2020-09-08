@@ -1,0 +1,2 @@
+# CGraphicsView
+自定义QGraphicsView视图，QGraphicsItem图元
